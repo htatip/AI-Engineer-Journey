@@ -12,5 +12,5 @@ print(f"Smallest: {smallest}")
 print(f"Average: {average}")
 print("Numbers greater than average: ")
 for num in nums:
-    if(num>average):
+    if(num > average):
         print(num)
