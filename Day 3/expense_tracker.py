@@ -16,7 +16,7 @@ expenses.update({
      'food': food,
     'travel': travel,
     'shopping': shopping,
-    'Bills': bills,
+    'bills': bills,
     "other": other,
 })
 
